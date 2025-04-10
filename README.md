@@ -8,7 +8,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=AustinRippee&label=Visitors+Count&color=red&style=for-the-badge)
-<a href="https://www.austinrippee.com/contact"><img alt="Website" src="https://img.shields.io/badge/Send%20a%20Message-Contact-orange?style=for-the-badge"></a>
+<a href="https://www.austinrippee.com/contact"><img alt="Website" src="https://img.shields.io/badge/Send%20a%20Message-Contact-red?style=for-the-badge"></a>
 <p style="font-size: 15px;">I'm an avid developer learning all I can about the world of development.</p>
 
 </div>
