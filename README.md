@@ -6,6 +6,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-austinrippee.vercel.app?user=AustinRippee&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AustinRippee)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=AustinRippee&label=Visitors+Count&color=red&style=for-the-badge)
 <a href="https://www.austinrippee.com/contact"><img alt="Website" src="https://img.shields.io/badge/Send%20a%20Message-Contact-red?style=for-the-badge"></a>
